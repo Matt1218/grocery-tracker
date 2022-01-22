@@ -49,10 +49,6 @@ i {
   max-width: 1000px;
 }
 
-.page__container {
-  height: 60vh;
-}
-
 .form__container {
   align-items: center;
   border: 2px solid blue;
